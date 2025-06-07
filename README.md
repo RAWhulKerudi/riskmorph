@@ -104,7 +104,7 @@ Rating: Poor
 ## 🌐 Project Links
 
 - 🔗 GitHub Repo: [GitHub](https://github.com/RAWhulKerudi/riskmorph)
-- 🚀 Live App: [Demo](https://your-app-url.com)
+- 🚀 Live App: [Demo](https://riskmorph-credit-risk.streamlit.app/)
 
 ---
 
