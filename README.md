@@ -80,12 +80,12 @@ Credit risk assessment is a critical task in the lending industry. Traditional m
 ```
 riskmorph/
 │
-├── artifacts/                # Trained ML models
-├── images/                   # UI samples & logos
-├── main.py                   # Streamlit application
-├── predict_helper.py         # Prediction & scoring logic
-├── requirements.txt
-└── README.md
+├── artifacts/                   # Trained ML models
+├── images/                      # UI samples & logos
+├── main.py                      # Streamlit application
+├── prediction_helper.py         # Prediction & scoring logic
+├── README.md
+└── requirements.txt 
 ```
 
 ---
