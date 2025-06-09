@@ -108,9 +108,5 @@ Rating: Poor
 
 ---
 
-## 🤝 Contributing
 
-Have ideas to improve model accuracy, UX, or expand the feature set? Pull requests and discussions are always welcome!
-
----
 
